@@ -8,7 +8,7 @@ Please go through the the readme pdf to run the applications locally OR on cloud
  
  Logs will be generated in D drive (change path in application.properties as per convenience)
 
- Jmeter for Performance testing
+ Jmeter for Performance testing  (index.html in BMS_Jmeter_Reports directory)
 
  Cucumber BDD Reports can be accessed through the links specied in the "BDD Reports" File
 
