@@ -1,4 +1,4 @@
-# AMEX Backend Microcredentials Training - Case Study - Milestone 2
+# Backend Microcredentials Training - Case Study - Milestone 2
 
 Please go through the the readme pdf to run the applications locally OR on cloud.
 
